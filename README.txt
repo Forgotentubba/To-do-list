@@ -58,9 +58,9 @@ Ou seja:
 Sinta-se livre para contribuir:
 
 1. Fork do projeto
-2. Crie uma branch (`git checkout -b feature/nova-feature`)
-3. Commit (`git commit -m 'feat: nova feature'`)
-4. Push (`git push origin feature/nova-feature`)
+2. Crie uma branch 
+3. Commit 
+4. Push 
 5. Abra um Pull Request
 
 ---
